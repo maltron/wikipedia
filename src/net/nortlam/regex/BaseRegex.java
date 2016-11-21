@@ -68,4 +68,37 @@ public class BaseRegex {
         
         return contentFound;
     }
+    
+    protected String firstMatch(String content, String regex, String[] extract) {
+        Pattern pattern = Pattern.compile(regex);
+        Matcher matcher = pattern.matcher(content);
+        String result = matcher.find() ? matcher.group() : null;
+        if(result != null)
+            if(extract != null)
+                for(String value: extract)
+                    result = result.replaceAll(value, "");
+            
+        return result;
+    }
+    
+    protected String indexMatch(String content, String regex, int index, String[] extract) {
+        Pattern pattern = Pattern.compile(regex);
+        Matcher matcher = pattern.matcher(content); 
+        String contentFound = null; int position = 0;
+        while(matcher.find()) {
+            contentFound = matcher.group();
+            if(position == index) break; position++;
+        }
+        
+        // If we were unable to find something right at the first one, then quit
+        if(contentFound == null) return null;
+        
+        // Found it. Now try to remove all possible extra marks
+        if(extract != null)
+            for(String ex: extract)
+                contentFound = contentFound.replaceAll(ex, "");
+        
+        return contentFound;
+    }
+    
 }

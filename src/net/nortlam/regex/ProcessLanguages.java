@@ -24,18 +24,18 @@ public class ProcessLanguages extends BaseRegex {
 //        System.out.printf(">>> CONTENT:%s\n", content);
         for(String tr: list(LIST, content)) {
             
-            System.out.printf(">>> TR:%s\n", tr);
+//            System.out.printf(">>> TR:%s\n", tr);
             
             String name = firstMatch(tr, "(?i)<a href=\"[\\w/]+\" title=\"[\\w\\s]+language\">\\w+</a>", DEFAULT_ANCHOR);
             if(name == null) continue;
-            String original = indexMatch(tr, "(?i)<a(.*?)>\\w+</a>", 1,
-                    new String[] {"<a(.*?)>","</a>", "</td><td>"});
-            String code = indexMatch(tr, "(?i)<a(.*?)>\\w+</a>", 2, 
+            String original = indexMatch(tr, "(?i)<a(.*?)/a>", 1,
+                    new String[] {"<a(.*?)>","</a>"});
+            String code = indexMatch(tr, "(?i)<a(.*?)/a>", 2, 
                     new String[] {"<a(.*?)>","</a>", "</td><td>"});
             
-            System.out.printf(">>> %s, %s, %s\n", name, original, code);
+            System.out.printf("{\"name\":\"%s\", \"original\":\"%s\", \"code\":\"%s\"}\n", name, original, code);
             
-            if(position == 25) break; position++;
+//            if(position == 50) break; position++;
             
         }
         

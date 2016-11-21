@@ -1,0 +1,183 @@
+{"name":"English", "original":"English", "code":"en"}
+{"name":"Swedish", "original":"svenska", "code":"sv"}
+{"name":"Cebuano", "original":"Cebuano", "code":"ceb"}
+{"name":"German", "original":"Deutsch", "code":"de"}
+{"name":"Dutch", "original":"Nederlands", "code":"nl"}
+{"name":"French", "original":"français", "code":"fr"}
+{"name":"Russian", "original":"русский", "code":"ru"}
+{"name":"Italian", "original":"italiano", "code":"it"}
+{"name":"Spanish", "original":"español", "code":"es"}
+{"name":"Waray", "original":"Winaray", "code":"war"}
+{"name":"Polish", "original":"polski", "code":"pl"}
+{"name":"Vietnamese", "original":"Tiếng Việt", "code":"vi"}
+{"name":"Japanese", "original":"日本語", "code":"ja"}
+{"name":"Portuguese", "original":"português", "code":"pt"}
+{"name":"Chinese", "original":"中文", "code":"zh"}
+{"name":"Ukrainian", "original":"українська", "code":"uk"}
+{"name":"Catalan", "original":"català", "code":"ca"}
+{"name":"Persian", "original":"فارسی", "code":"fa"}
+{"name":"Finnish", "original":"suomi", "code":"fi"}
+{"name":"Hungarian", "original":"magyar", "code":"hu"}
+{"name":"Indonesian", "original":"Bahasa Indonesia", "code":"id"}
+{"name":"Romanian", "original":"română", "code":"ro"}
+{"name":"Czech", "original":"čeština", "code":"cs"}
+{"name":"Korean", "original":"한국어", "code":"ko"}
+{"name":"Serbian", "original":"српски / srpski", "code":"sr"}
+{"name":"Turkish", "original":"Türkçe", "code":"tr"}
+{"name":"Malay", "original":"Bahasa Melayu", "code":"ms"}
+{"name":"Basque", "original":"euskara", "code":"eu"}
+{"name":"Bulgarian", "original":"български", "code":"bg"}
+{"name":"Minangkabau", "original":"Baso Minangkabau", "code":"min"}
+{"name":"Danish", "original":"dansk", "code":"da"}
+{"name":"Kazakh", "original":"қазақша", "code":"kk"}
+{"name":"Slovak", "original":"slovenčina", "code":"sk"}
+{"name":"Armenian", "original":"Հայերեն", "code":"hy"}
+{"name":"Hebrew", "original":"עברית", "code":"he"}
+{"name":"Lithuanian", "original":"lietuvių", "code":"lt"}
+{"name":"Croatian", "original":"hrvatski", "code":"hr"}
+{"name":"Chechen", "original":"нохчийн", "code":"ce"}
+{"name":"Estonian", "original":"eesti", "code":"et"}
+{"name":"Galician", "original":"galego", "code":"gl"}
+{"name":"Uzbek", "original":"oʻzbekcha/ўзбекча", "code":"uz"}
+{"name":"Greek", "original":"Ελληνικά", "code":"el"}
+{"name":"Belarusian", "original":"беларуская", "code":"be"}
+{"name":"Thai", "original":"ไทย", "code":"th"}
+{"name":"Azerbaijani", "original":"azərbaycanca", "code":"az"}
+{"name":"Georgian", "original":"ქართული", "code":"ka"}
+{"name":"Tamil", "original":"தமிழ்", "code":"ta"}
+{"name":"Macedonian", "original":"македонски", "code":"mk"}
+{"name":"Occitan", "original":"occitan", "code":"oc"}
+{"name":"Malagasy", "original":"Malagasy", "code":"mg"}
+{"name":"Welsh", "original":"Cymraeg", "code":"cy"}
+{"name":"Latvian", "original":"latviešu", "code":"lv"}
+{"name":"Newar", "original":"नेपाल भाषा", "code":"new"}
+{"name":"Bosnian", "original":"bosanski", "code":"bs"}
+{"name":"Tatar", "original":"татарча/tatarça", "code":"tt"}
+{"name":"Tajik", "original":"тоҷикӣ", "code":"tg"}
+{"name":"Telugu", "original":"తెలుగు", "code":"te"}
+{"name":"Tagalog", "original":"Tagalog", "code":"tl"}
+{"name":"Piedmontese", "original":"Piemontèis", "code":"pms"}
+{"name":"Albanian", "original":"shqip", "code":"sq"}
+{"name":"Breton", "original":"brezhoneg", "code":"br"}
+{"name":"Javanese", "original":"Basa Jawa", "code":"jv"}
+{"name":"Asturian", "original":"asturianu", "code":"ast"}
+{"name":"Luxembourgish", "original":"Lëtzebuergesch", "code":"lb"}
+{"name":"Bengali", "original":"বাংলা", "code":"bn"}
+{"name":"Marathi", "original":"मराठी", "code":"mr"}
+{"name":"Scots", "original":"Scots", "code":"sco"}
+{"name":"Icelandic", "original":"íslenska", "code":"is"}
+{"name":"Irish", "original":"Gaeilge", "code":"ga"}
+{"name":"Bashkir", "original":"башҡортса", "code":"ba"}
+{"name":"Chuvash", "original":"Чӑвашла", "code":"cv"}
+{"name":"Swahili", "original":"Kiswahili", "code":"sw"}
+{"name":"Lombard", "original":"lumbaart", "code":"lmo"}
+{"name":"Burmese", "original":"မြန်မာဘာသာ", "code":"my"}
+{"name":"Aragonese", "original":"aragonés", "code":"an"}
+{"name":"Yoruba", "original":"Yorùbá", "code":"yo"}
+{"name":"Nepali", "original":"नेपाली", "code":"ne"}
+{"name":"Ido", "original":"Ido", "code":"io"}
+{"name":"Gujarati", "original":"ગુજરાતી", "code":"gu"}
+{"name":"Sicilian", "original":"sicilianu", "code":"scn"}
+{"name":"Bavarian", "original":"Boarisch", "code":"bar"}
+{"name":"Sundanese", "original":"Basa Sunda", "code":"su"}
+{"name":"Mongolian", "original":"монгол", "code":"mn"}
+{"name":"Neapolitan", "original":"Napulitano", "code":"nap"}
+{"name":"Walloon", "original":"walon", "code":"wa"}
+{"name":"Buginese", "original":"ᨅᨔ ᨕᨘᨁᨗ", "code":"bug"}
+{"name":"Sinhalese", "original":"සිංහල", "code":"si"}
+{"name":"Faroese", "original":"føroyskt", "code":"fo"}
+{"name":"Limburgish", "original":"Limburgs", "code":"li"}
+{"name":"Venetian", "original":"vèneto", "code":"vec"}
+{"name":"Ossetian", "original":"Ирон", "code":"os"}
+{"name":"Mingrelian", "original":"მარგალური", "code":"xmf"}
+{"name":"Kapampangan", "original":"Kapampangan", "code":"pam"}
+{"name":"Sindhi", "original":"سنڌي", "code":"sd"}
+{"name":"Gilaki", "original":"گیلکی", "code":"glk"}
+{"name":"Rusyn", "original":"русиньскый", "code":"rue"}
+{"name":"Maithili", "original":"मैथिली", "code":"mai"}
+{"name":"Corsican", "original":"corsu", "code":"co"}
+{"name":"Turkmen", "original":"Türkmençe", "code":"tk"}
+{"name":"Silesian", "original":"ślůnski", "code":"szl"}
+{"name":"Sardinian", "original":"sardu", "code":"sc"}
+{"name":"Kashubian", "original":"kaszëbsczi", "code":"csb"}
+{"name":"Khmer", "original":"ភាសាខ្មែរ", "code":"km"}
+{"name":"Manx", "original":"Gaelg", "code":"gv"}
+{"name":"Komi", "original":"коми", "code":"kv"}
+{"name":"Assamese", "original":"অসমীয়া", "code":"as"}
+{"name":"Somali", "original":"Soomaaliga", "code":"so"}
+{"name":"Aymara", "original":"Aymar aru", "code":"ay"}
+{"name":"Udmurt", "original":"удмурт", "code":"udm"}
+{"name":"Cornish", "original":"kernowek", "code":"kw"}
+{"name":"Norman", "original":"Nouormand", "code":"nrm"}
+{"name":"Acehnese", "original":"Acèh", "code":"ace"}
+{"name":"Romansh", "original":"rumantsch", "code":"rm"}
+{"name":"Picard", "original":"Picard", "code":"pcd"}
+{"name":"Erzya", "original":"эрзянь", "code":"myv"}
+{"name":"Maltese", "original":"Malti", "code":"mt"}
+{"name":"Friulian", "original":"furlan", "code":"fur"}
+{"name":"Guarani", "original":"Avañe'ẽ", "code":"gn"}
+{"name":"Uyghur", "original":"ئۇيغۇرچە / Uyghurche", "code":"ug"}
+{"name":"Lezgian", "original":"лезги", "code":"lez"}
+{"name":"Extremaduran", "original":"estremeñu", "code":"ext"}
+{"name":"Kabyle", "original":"Taqbaylit", "code":"kab"}
+{"name":"Ripuarian", "original":"Ripoarisch", "code":"ksh"}
+{"name":"Mirandese", "original":"Mirandés", "code":"mwl"}
+{"name":"Gagauz", "original":"Gagauz", "code":"gag"}
+{"name":"Shona", "original":"chiShona", "code":"sn"}
+{"name":"Pangasinan", "original":"Pangasinan", "code":"pag"}
+{"name":"Navajo", "original":"Diné bizaad", "code":"nv"}
+{"name":"Avar", "original":"авар", "code":"av"}
+{"name":"Hawaiian", "original":"Hawaiʻi", "code":"haw"}
+{"name":"Karakalpak", "original":"Qaraqalpaqsha", "code":"kaa"}
+{"name":"Buryat", "original":"буряад", "code":"bxr"}
+{"name":"Tongan", "original":"lea faka-Tonga", "code":"to"}
+{"name":"Greenlandic", "original":"kalaallisut", "code":"kl"}
+{"name":"Lao", "original":"ລາວ", "code":"lo"}
+{"name":"Aramaic", "original":"ܐܪܡܝܐ", "code":"arc"}
+{"name":"Banjar", "original":"Bahasa Banjar", "code":"bjn"}
+{"name":"Kabardian", "original":"Адыгэбзэ", "code":"kbd"}
+{"name":"Hausa", "original":"Hausa", "code":"ha"}
+{"name":"Tetum", "original":"tetun", "code":"tet"}
+{"name":"Tuvan", "original":"тыва дыл", "code":"tyv"}
+{"name":"Kikuyu", "original":"Gĩkũyũ", "code":"ki"}
+{"name":"Igbo", "original":"Igbo", "code":"ig"}
+{"name":"Nauruan", "original":"Dorerin Naoero", "code":"na"}
+{"name":"Lak", "original":"лакку", "code":"lbe"}
+{"name":"Aromanian", "original":"armãneashti", "code":"roa-rup"}
+{"name":"Tahitian", "original":"reo tahiti", "code":"ty"}
+{"name":"Kongo", "original":"Kongo", "code":"kg"}
+{"name":"Moksha", "original":"мокшень", "code":"mdf"}
+{"name":"Wolof", "original":"Wolof", "code":"wo"}
+{"name":"Latgalian", "original":"latgaļu", "code":"ltg"}
+{"name":"Cherokee", "original":"ᏣᎳᎩ", "code":"chr"}
+{"name":"Zulu", "original":"isiZulu", "code":"zu"}
+{"name":"Samoan", "original":"Gagana Samoa", "code":"sm"}
+{"name":"Oromo", "original":"Oromoo", "code":"om"}
+{"name":"Tulu", "original":"ತುಳು", "code":"tcy"}
+{"name":"Tswana", "original":"Setswana", "code":"tn"}
+{"name":"Cheyenne", "original":"Tsetsêhestâhese", "code":"chy"}
+{"name":"Romani", "original":"Romani", "code":"rmy"}
+{"name":"Xhosa", "original":"isiXhosa", "code":"xh"}
+{"name":"Tumbuka", "original":"chiTumbuka", "code":"tum"}
+{"name":"Gothic", "original":"𐌲𐌿𐍄𐌹𐍃𐌺", "code":"got"}
+{"name":"Chamorro", "original":"Chamoru", "code":"ch"}
+{"name":"Bambara", "original":"bamanankan", "code":"bm"}
+{"name":"Adyghe", "original":"адыгабзэ", "code":"ady"}
+{"name":"Moldovan", "original":"молдовеняскэ", "code":"mo"}
+{"name":"Tsonga", "original":"Xitsonga", "code":"ts"}
+{"name":"Fijian", "original":"Na Vosa Vakaviti", "code":"fj"}
+{"name":"Ewe", "original":"eʋegbe", "code":"ee"}
+{"name":"Akan", "original":"Akan", "code":"ak"}
+{"name":"Kashmiri", "original":"कॉशुर / کٲشُر", "code":"ks"}
+{"name":"Sango", "original":"Sängö", "code":"sg"}
+{"name":"Venda", "original":"Tshivenda", "code":"ve"}
+{"name":"Fula", "original":"Fulfulde", "code":"ff"}
+{"name":"Tigrinya", "original":"ትግርኛ", "code":"ti"}
+{"name":"Cree", "original":"Nēhiyawēwin / ᓀᐦᐃᔭᐍᐏᐣ", "code":"cr"}
+{"name":"Choctaw", "original":"Choctaw", "code":"cho"}
+{"name":"Marshallese", "original":"Ebon", "code":"mh"}
+{"name":"Nuosu", "original":"ꆇꉙ", "code":"ii"}
+{"name":"Afar", "original":"Qafár af", "code":"aa"}
+{"name":"Muscogee", "original":"Mvskoke", "code":"mus"}
+{"name":"Herero", "original":"Otsiherero", "code":"hz"}
+{"name":"Kanuri", "original":"Kanuri", "code":"kr"}

@@ -1,0 +1,780 @@
+Afghanistan, upload.wikimedia.org/wikipedia/commons/thumb/1/19/Afghanistan_%28orthographic_projection%29.svg/250px-Afghanistan_%28orthographic_projection%29.svg.png, Kabul, 
+<div class="hlist" style="white-space:nowrap;">
+<ul>
+<li>Pashto</li>
+<li>Dari</li>
+</ul>
+</div>
+[1]</sup>, null, null, Afghan, 652,864<sup id="cite_ref-Area_and_administrative_Population_5-0" class="reference"><a href="#cite_note-Area_and_administrative_Population-5">[4]</a></sup>&#160;km, null, 32,564,342, Afghani, AFN, null, right, +93, AF, .af
+Albania, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Tirana, Albanian, null, null, Albanian, 28,748&#160;km, 4.7, null, Lek, ALL, dd/mm/yyyy, right, 355, AL, .al
+Algeria, upload.wikimedia.org/wikipedia/commons/thumb/2/25/Algeria_%28orthographic_projection%29.svg/250px-Algeria_%28orthographic_projection%29.svg.png, Algiers, 
+<div class="hlist">
+<ul>
+<li>Arabic[3]</sup></li>
+<li>Berber[4]</sup></li>
+</ul>
+</div>
+, null, null, Algerian, 2,381,741&#160;km, null, 40,400,000, Dinar, DZD, dd/mm/yyyy, right[13], +213, DZ, .dz
+Andorra, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Andorra la Vella, Catalana</sup>, null, null, Andorran, 467.63&#160;km, null, null, Euro, EUR, null, right, +376, AD, .ad
+Angola, null, Luanda, Portuguese, null, null, Angolan, 1,246,700&#160;km, null, null, Kwanza, AOA, null, right, +244, AO, .ao
+Antigua and Barbuda, upload.wikimedia.org/wikipedia/commons/thumb/2/21/ATG_orthographic.svg/250px-ATG_orthographic.svg.png, St. John's, English, null, null, Demonym, 440&#160;km, null, null, East Caribbean dollar, XCD, null, left, 268, AG, .ag
+Argentina, upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Argentina_orthographic.svg/220px-Argentina_orthographic.svg.png, Buenos Aires, None, Spanish[a]</sup>, null, Argentine, 2,780,400&#160;km, 1.57, 40,117,096, Peso, ARS, dd.mm.yyyy (<, right[b], +54, AR, .ar
+Armenia, upload.wikimedia.org/wikipedia/commons/thumb/9/96/Armenia_%28orthographic_projection%29.svg/250px-Armenia_%28orthographic_projection%29.svg.png, Yerevan, Armenian[1]</sup>, null, null, Armenian, 29,743&#160;km, null, null, Dram, AMD, null, right, +374, AM, .am
+Australia, upload.wikimedia.org/wikipedia/commons/thumb/d/da/Australia_with_AAT_%28orthographic_projection%29.svg/220px-Australia_with_AAT_%28orthographic_projection%29.svg.png, Canberra, None[N 2]</sup>, null, English[N 2]</sup>, Australian, 7,692,024&#160;km, null, 24,278,600, Australian dollar, AUD, dd/mm/yyyy, left, +61, AU, .au
+Austria, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Vienna, Austrian German[a]</sup>, null, null, Austrian, 83,879&#160;km, 1.7, 8,725,931, Euro, EUR, null, right, +43, AT, .at
+Azerbaijan, upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/100px-Asia_%28orthographic_projection%29.svg.png, Baku, Azerbaijani, null, null, Azerbaijani, 86,600&#160;km, 1.6, 9,754,830, Manat, AZN, null, right, +994, AZ, .az
+Bahrain, upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Middle_East_%28orthographic_projection%29.svg/70px-Middle_East_%28orthographic_projection%29.svg.png, Manama, Arabic, null, null, Bahraini, 765&#160;km, null, 1,378,000, Bahraini dinar, BHD, null, right[a], +973, BH, .bh
+Bangladesh, upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bangladesh_%28orthographic_projection%29.svg/250px-Bangladesh_%28orthographic_projection%29.svg.png, Dhaka, Bengali, null, null, Bangladeshi, 147,570<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>&#160;km, 6.4, 168,957,745, Taka, BDT, 
+<d, left, +880, BD, .bd
+Barbados, upload.wikimedia.org/wikipedia/commons/thumb/a/a1/BRB_orthographic.svg/250px-BRB_orthographic.svg.png, Bridgetown, English, null, null, Barbadian, 439&#160;km, null, 277,821, Bajan dollar, BBD, null, left[5], +1, BB, .bb
+Belarus, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Minsk, 
+<div class="plainlist">
+<ul>
+<li>Belarusian</li>
+<li>Russiana</sup></li>
+</ul>
+</div>
+, null, null, Belarusian, 207,595&#160;km, null, null, New Belarusian ruble, BYN, dd.mm.yyyy, right, +375, BY, .by
+Belgium, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Brussels, Dutch<br />
+French<br />
+German, null, null, Belgian, 30,528&#160;km, 6.4, 11,250,585, Euro, EUR, null, right, +32, BE, .be
+Belize, upload.wikimedia.org/wikipedia/commons/thumb/4/43/BLZ_orthographic.svg/250px-BLZ_orthographic.svg.png, Belmopan, English, null, null, Belizean, 22,966&#160;km, 0.7, null, Belize dollar, BZD, null, right, null, BZ, .bz
+Benin, null, Porto-Novo, French, null, null, Demonym, 114,763&#160;km, null, 10,879,829, West African CFA franc, XOF, null, right, +229, BJ, .bj
+Bhutan, upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bhutan_%28orthographic_projection%29.svg/250px-Bhutan_%28orthographic_projection%29.svg.png, Thimphu, Dzongkha, null, null, Bhutanese, 38,394&#160;km, 1.1, 742,737, Ngultrum, BTN, null, left, +975, BT, .bt
+Bolivia, upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bolivia_%28orthographic_projection%29.svg/220px-Bolivia_%28orthographic_projection%29.svg.png, Sucre, 
+<div class="hlist">
+<ul>
+<li>Spanish</li>
+<li>Quechua</li>
+<li>Aymara</li>
+<li>Guarani</li>
+</ul>
+</div>
+and 33 other native languages, null, null, Bolivian, 1,098,581&#160;km, 1.29, 11,410,651, Boliviano, BOB, null, right, +591, null, .bo
+Bosnia and Herzegovina, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Sarajevo, None (<i>de jure</i>)<br />
+Bosnian, Croatian and Serbian (<i>de facto</i>), null, null, Bosnian, 51,197&#160;km, null, null, Convertible mark, BAM, dd. mm. yyyy. (<, right, null, BA, .ba
+Botswana, null, Gaborone, 
+<div class="plainlist">
+<ul>
+<li>Setswana</li>
+<li>English</li>
+</ul>
+</div>
+, null, null, Batswana, 581,730&#160;km, 2.6, 2,155,784, Pula, BWP, DD/MM/YYYY, left, +267, BW, .bw
+Brazil, upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brazil_%28orthographic_projection%29.svg/250px-Brazil_%28orthographic_projection%29.svg.png, Brasília, Portuguese[2]</sup>[3]</sup>, null, null, Brazilian, 8,515,767&#160;km, 0.65, 206,440,850, Real, BRL, dd/mm/yyyy (<, right, +55, BR, .br
+Bulgaria, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Sofia, Bulgarian, null, null, Bulgarian, 110,994&#160;km, 0.3, 7,202,198, Lev, BGN, null, right, +359, BG, .bg
+Burkina Faso, null, Ouagadougou, French, null, null, Demonym, 274,200&#160;km, null, 17,322,796, West African CFA franc, XOF, null, right, +226, BF, .bf
+Burundi, null, Bujumbura, 
+<div class="hlist">
+<ul>
+<li>French<br />
+Kirundi</li>
+</ul>
+</div>
+, null, null, Burundian, null, null, null, Burundian franc, BIF, dd/mm/yyyy, right, +257, BI, .bi
+Cambodia, upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/100px-Asia_%28orthographic_projection%29.svg.png, Phnom Penh, Khmer, null, null, Cambodian, 181,035&#160;km, 2.5, 15,458,332, Riel, KHR, dd/mm/yyyy, right, +855, KH, .kh
+Cameroon, null, Yaoundé, French<br />
+English, null, null, Cameroonian, 475,442&#160;km, 0.57, 22,534,532, Central African CFA franc, XAF, null, right, +237, CM, .cm
+Canada, upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Canada_%28orthographic_projection%29.svg/220px-Canada_%28orthographic_projection%29.svg.png, Ottawa, 
+<div class="hlist">
+<ul>
+<li>English</li>
+<li>French</li>
+</ul>
+</div>
+, null, null, Canadian, 9,984,670&#160;km, null, 36,286,425, Canadian dollar, CAD, 
+<d, right, +1, CA, .ca
+Cape Verde, null, Praia, Portuguese, null, null, Cape Verdean, 4,033&#160;km, null, null, Cape Verdean escudo, CVE, null, right, +238, CV, .cv
+Central African Republic, null, Bangui, French, Sango, null, null, Central African, 622,984&#160;km, 0, 4,709,000, Central African CFA franc, XAF, null, right[7], +236, CF, .cf
+Chad, upload.wikimedia.org/wikipedia/commons/thumb/4/46/Chad_%28orthographic_projection%29.svg/250px-Chad_%28orthographic_projection%29.svg.png, N'Djamena, 
+<div class="plainlist">
+<ul>
+<li>French</li>
+<li>Arabic</li>
+</ul>
+</div>
+, null, null, Chadian, 1,284,000&#160;km, 1.9, null, Central African CFA franc, XAF, null, right, +235, TD, .td
+Chile, upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Chile_%28orthographic_projection%29.svg/220px-Chile_%28orthographic_projection%29.svg.png, Santiago, null, null, Spanish, Chilean, 756,096.3&#160;km, null, 18,006,407, Peso, CLP, null, right, +56, CL, .cl
+China, upload.wikimedia.org/wikipedia/commons/thumb/7/78/People%27s_Republic_of_China_%28orthographic_projection%29.svg/220px-People%27s_Republic_of_China_%28orthographic_projection%29.svg.png, Beijing, <span class="nowrap">Standard Chinese[2]</sup>[b]</sup></span> (aka <i>Putonghua</i>)<br />
+Cantonese[3]</sup>, null, null, Chinese, 9,596,961&#160;km, null, 1,376,049,000, Renminbi, CNY, 
+<d, right[h], +86, CN, .cn
+Colombia, upload.wikimedia.org/wikipedia/commons/thumb/c/ca/COL_orthographic_%28San_Andr%C3%A9s_and_Providencia_special%29.svg/250px-COL_orthographic_%28San_Andr%C3%A9s_and_Providencia_special%29.svg.png, Bogotá, Spanisha</sup>, null, null, Colombian, 1,141,748&#160;km, null, null, Peso, COP, dd−mm−yyyy (, right, +57, CO, .co
+Comoros, null, Moroni, 
+<div class="hlist">
+<ul>
+<li>Comorian</li>
+<li>French</li>
+<li>Arabic</li>
+</ul>
+</div>
+, null, null, Comorian, 2,034&#160;km, null, 798,000, Comorian franc, KMF, null, right, +269, KM, .km
+Costa Rica, upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Costa_Rica_%28orthographic_projection%29.svg/250px-Costa_Rica_%28orthographic_projection%29.svg.png, San José, Spanish, null, null, Costa Rican, 51,100&#160;km, 0.7, null, Costa Rican colón, CRC, null, right, +506, CR, .cr
+Croatia, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Zagreb, Croatian, null, null, Demonym, 56,594&#160;km, 1.09, 4,284,889, Kuna, HRK, null, right, +385, HR, .hr
+Cuba, upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cuba_%28orthographic_projection%29.svg/250px-Cuba_%28orthographic_projection%29.svg.png, Havana, Spanish, null, null, Cuban, 109,884&#160;km, null, 11,239,004, Peso, CUP, null, right, +53, CU, .cu
+Cyprus, upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/100px-Asia_%28orthographic_projection%29.svg.png, Nicosia, 
+<div class="plainlist">
+<ul>
+<li style="line-height:initial;">Greek</li>
+<li style="line-height:initial;">Turkish[2]</sup></li>
+</ul>
+</div>
+, null, null, Cypriot, 9,251&#160;km, 9, 1,141,166, Euro, EUR, null, left, +357, CY, .cy
+Czech Republic, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Prague, Czech[1]</sup>, null, null, Czech, 78,866&#160;km, 2, 10,553,443, Czech koruna, CZK, null, right, +420, CZ, .cz
+Denmark, upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kingdom_of_Denmark_%28orthographic_projection%29.svg/240px-Kingdom_of_Denmark_%28orthographic_projection%29.svg.png, Copenhagen, Danish, null, null, Danish, 42,925.46&#160;km, null, 5,707,251, Danish krone, DKK, null, right, +45, DK, .dk
+Djibouti, upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Djibouti_%28orthographic_projection%29.svg/250px-Djibouti_%28orthographic_projection%29.svg.png, Djibouti City, 
+<div class="plainlist">
+<ul>
+<li>French</li>
+<li>Arabic[1]</sup></li>
+</ul>
+</div>
+, null, null, Djiboutian, 23,200&#160;km, null, null, Djiboutian franc, DJF, null, right, +253, DJ, .dj
+Dominica, null, Roseau, English, null, null, Dominican, 750&#160;km, 1.6, null, East Caribbean dollar, XCD, null, left, 767, DM, .dm
+Dominican Republic, upload.wikimedia.org/wikipedia/commons/thumb/9/95/Dominican_Republic_%28orthographic_projection%29.svg/250px-Dominican_Republic_%28orthographic_projection%29.svg.png, Santo Domingo, Spanish, null, null, Dominican, 48,442&#160;km, null, null, Peso, DOP, null, right, 849, DO, .do
+East Timor, upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/100px-Asia_%28orthographic_projection%29.svg.png, Dili, 
+<div class="plainlist">Tetum
+<ul>
+<li>Portuguesea</sup></li>
+</ul>
+</div>
+, null, 
+<div class="plainlist">
+<ul>
+<li>Atauru</li>
+<li>Baikeno</li>
+<li>Bekais</li>
+<li>Bunak</li>
+<li>Fataluku</li>
+<li>Galoli</li>
+<li>Habun</li>
+<li>Idalaka</li>
+<li>Kawaimina</li>
+<li>Kemak</li>
+<li>Makalero</li>
+<li>Makasae</li>
+<li>Makuva</li>
+<li>Mambai</li>
+<li>Tokodede</li>
+</ul>
+</div>
+, East Timorese, 15,410&#160;km, null, null, United States Dollar, USD, null, left, +670, TL, .tl
+Ecuador, upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ecuador_%28orthographic_projection%29.svg/250px-Ecuador_%28orthographic_projection%29.svg.png, Quito, Spanish[1]</sup>, null, null, Ecuadorian, 283,560, 5, 16,144,000, United States dollar, USD, null, right, +593, EC, .ec
+Egypt, upload.wikimedia.org/wikipedia/commons/thumb/a/a1/EGY_orthographic.svg/250px-EGY_orthographic.svg.png, Cairo, Arabic[a]</sup>, null, Egyptian Arabic, Egyptian, 1,010,407.87 <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>&#160;km, 0.632, 92,083,000, Egyptian pound, EGP, null, right, +20, EG, .eg
+El Salvador, null, San Salvador, Spanish, null, null, Salvadoran, 21,041&#160;km, 1.5, null, United States dollar, USD, null, right, +503, SV, .sv
+Equatorial Guinea, null, Malabo, Spanish (national language)<br />
+French<br />
+Portuguese[1]</sup>[2]</sup>[3]</sup>, null, null, Demonym, 28,050&#160;km, null, null, Central African CFA franc, XAF, null, right, +240, GQ, .gq
+Eritrea, upload.wikimedia.org/wikipedia/commons/thumb/4/43/Eritrea_%28Africa_orthographic_projection%29.svg/250px-Eritrea_%28Africa_orthographic_projection%29.svg.png, Asmara, None (<i>de jure</i>)[1]</sup><br />
+Tigrinya (<i>de facto</i>)[2]</sup>, null, null, Eritrean, 117,600&#160;km, null, 6,380,803, Nakfa, ERN, null, right, +291, ER, .er
+Estonia, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Tallinn, Estonianb</sup>, null, null, Estonian, 45,339<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>&#160;km, null, 1,315,944, Euro, EUR, null, right, +372, EE, .ee
+Ethiopia, upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ethiopia_%28Africa_orthographic_projection%29.svg/250px-Ethiopia_%28Africa_orthographic_projection%29.svg.png, Addis Ababa, Amharic[1]</sup>, null, null, Ethiopian, 1,104,300&#160;km, 0.7, 99,465,819, Birr, ETB, null, right, +251, ET, .et
+Fiji, null, Suva, 
+<div class="plainlist">
+<ul>
+<li>English</li>
+<li>Fijian</li>
+<li>Hindi</li>
+</ul>
+</div>
+, null, null, Fijian, 18,274&#160;km, null, 909,389, Fijian dollar, FJD, null, left, +679, FJ, .fj
+Finland, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Helsinki, 
+<div class="plainlist">
+<ul>
+<li>Finnish <span style="font-size:90%;">(88.67%)</span></li>
+<li>Swedish <span style="font-size:90%;">(5.29%)</span></li>
+</ul>
+</div>
+, null, null, Finnish, 338,424&#160;km, 10, 5,488,543, Euro, EUR, dd.mm.yyyy, right, +358, FI, .fi
+France, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Paris, French[II]</sup>, null, null, French, 643,801&#160;km, null, 66,736,000, Euro, EUR, dd/mm/yyyy, right, +33, FR, .fr
+Gabon, null, Libreville, French, null, null, Demonym, 267,667&#160;km, null, 1,475,000, Central African CFA franc, XAF, null, right, +241, GA, .ga
+Georgia, upload.wikimedia.org/wikipedia/commons/thumb/6/67/Georgia_%28orthographic_projection_with_inset%29.svg/250px-Georgia_%28orthographic_projection_with_inset%29.svg.png, Tbilisi, Georgian[1]</sup>, null, null, Georgian, 69,700&#160;km, null, 3,720,400, Georgian lari, GEL, null, right, +995, GE, .ge
+Germany, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Berlin, German[1]</sup>[c]</sup>, null, null, German, 357,168&#160;km, null, 82,175,700, Euro, EUR, null, right, 49, DE, .de
+Ghana, upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ghana_%28orthographic_projection%29.svg/250px-Ghana_%28orthographic_projection%29.svg.png, Accra, English[2]</sup>[3]</sup>, null, 
+<div class="hlist">
+<ul>
+<li>Asante Twi, Dagaare, Dagbani, Dangme, Ewe, Ga, Gonja, Kasem, Fante, Nzema, Wasa, Talensi, Frafra</li>
+</ul>
+</div>
+, Ghanaian, 238,535&#160;km, null, null, Ghana cedi, GHS, null, right, +233, GH, .gh
+Greece, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Athens, Greek, null, null, Greek, 131,957&#160;km, 0.8669, 10,816,286, Euro, EUR, dd/mm/yyyy&#, right, +30, GR, .gr
+Grenada, null, St. George's, 
+<div class="plainlist">
+<ul>
+<li>English</li>
+</ul>
+</div>
+, null, null, Grenadian, 348.5&#160;km, 1.6, null, East Caribbean dollar, XCD, null, left, 473, GD, .gd
+Guatemala, upload.wikimedia.org/wikipedia/commons/thumb/7/70/Guatemala_%28orthographic_projection%29.svg/250px-Guatemala_%28orthographic_projection%29.svg.png, Guatemala City, Spanish, null, null, Guatemalan, 108,889&#160;km, 0.4, 15,806,675, Quetzal, GTQ, null, right, +502, GT, .gt
+Guinea, null, Conakry, French, null, null, Guinean, 245,836&#160;km, null, 8,746,128, Guinean franc, GNF, null, right, +224, GN, .gn
+Guinea-Bissau, null, Bissau, Portuguese, null, null, [1], 36,125&#160;km, 22.4, 1,693,398, West African CFA franc, XOF, null, right, +245, GW, .gw
+Guyana, upload.wikimedia.org/wikipedia/commons/thumb/2/20/Guyana_%28orthographic_projection%29.svg/250px-Guyana_%28orthographic_projection%29.svg.png, Georgetown, English, null, null, Guyanese, 214,970&#160;km, 8.4, 735,554, Guyanese dollar, GYD, null, left, +592, GY, .gy
+Haiti, upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Haiti_%28orthographic_projection%29.svg/250px-Haiti_%28orthographic_projection%29.svg.png, Port-au-Prince, 
+<div class="plainlist">
+<ul>
+<li>French</li>
+<li>Haitian Creole</li>
+</ul>
+</div>
+, null, null, Haitian, 27,750&#160;km, 0.7, 10,604,000, Haitian gourde, HTG, null, right, +509, HT, .ht
+Honduras, upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Honduras_%28orthographic_projection%29.svg/250px-Honduras_%28orthographic_projection%29.svg.png, Tegucigalpa, Spanish, null, null, Demonym, 112,492&#160;km, null, null, Lempira, HNL, null, right, +504, HN, .hn
+Hungary, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Budapest, Hungarian, null, null, Hungarian, 93,030<sup id="cite_ref-area_4-0" class="reference"><a href="#cite_note-area-4">[4]</a></sup>&#160;km, null, 9,855,571, Forint, HUF, yyyy/mm/dd, right, +36, HU, .hu
+Iceland, upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Iceland_%28orthographic_projection%29.svg/220px-Iceland_%28orthographic_projection%29.svg.png, Reykjavík, Icelandic, null, null, Icelander, 102,775<sup id="cite_ref-ruv20150226_3-0" class="reference"><a href="#cite_note-ruv20150226-3">[3]</a></sup>&#160;km, 2.7, 332,529, Icelandic króna, ISK, dd/mm/yyyy, right, +354, IS, .is
+India, upload.wikimedia.org/wikipedia/commons/thumb/b/bb/India_%28orthographic_projection%29.svg/250px-India_%28orthographic_projection%29.svg.png, New Delhi, Hindi&#160;<b>·</b> English[4]</sup>[nb 1]</sup>, null, null, Indian, 3,287,263<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[11]</a></sup>&#160;km, 9.6, 1,293,057,000, Indian rupee, INR, <, left, +91, null, .in
+Indonesia, upload.wikimedia.org/wikipedia/commons/thumb/0/05/Indonesia_%28orthographic_projection%29.svg/250px-Indonesia_%28orthographic_projection%29.svg.png, Jakarta, Indonesian, null, null, Indonesian, 1,904,569&#160;km, 4.85, 237,424,363, Indonesian rupiah, IDR, DD/MM/YYYY, left, +62, ID, .id
+Iran, upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Iran_%28orthographic_projection%29.svg/250px-Iran_%28orthographic_projection%29.svg.png, Tehran, Persian, null, null, Demonym, 1,648,195&#160;km, 0.7, null, Rial, IRR, yyyy/mm/dd (<, right, +98, IR, .ir
+Iraq, upload.wikimedia.org/wikipedia/commons/thumb/5/59/Iraq_%28orthographic_projection%29.svg/250px-Iraq_%28orthographic_projection%29.svg.png, Baghdad, 
+<div class="hlist">
+<ul>
+<li>Arabic</li>
+<li>Kurdish</li>
+</ul>
+</div>
+, null, null, Iraqi, 437,072&#160;km, 1.1, 38,146,025, Iraqi dinar, IQD, null, right, +964, IQ, .iq
+Ireland, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Dublin, 
+<div class="hlist">
+<ul>
+<li>Irish</li>
+<li>English[1]</sup></li>
+</ul>
+</div>
+, null, <b>National language</b>
+Irish[1]</sup>, Irish, 70,273&#160;km, 2.00, 4,757,976, Euro, EUR, dd/mm/yyyy, left, +353, IE, .ie
+Israel, upload.wikimedia.org/wikipedia/commons/thumb/4/47/ISR_orthographic.svg/250px-ISR_orthographic.svg.png, Jerusalem, 
+<div class="hlist">
+<ul>
+<li>Hebrew</li>
+<li>Arabic</li>
+</ul>
+</div>
+, null, null, Israeli, 20,770 / 22,072&#160;km, null, 8,541,000, New shekel, ILS, 
+<d, right, +972, IL, .il
+Italy, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Rome, Italiana</sup>, null, null, Italian, 301,338&#160;km, 2.4, null, €, EUR, null, right, +39, IT, .it
+Ivory Coast, null, Yamoussoukro, French, null, null, Demonym, 322,463&#160;km, null, 23,919,000, West African CFA franc, XOF, null, right, +225, CI, .ci
+Jamaica, upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Jamaica_%28orthographic_projection%29.svg/250px-Jamaica_%28orthographic_projection%29.svg.png, Kingston, English, null, <span class="nowrap">Jamaican Patois <small>(<i>de facto</i>)</small></span>, Jamaican, 10,991&#160;km, 1.5, 2,950,210, Jamaican dollar, JMD, null, left, 876, JM, .jm
+Japan, upload.wikimedia.org/wikipedia/commons/thumb/6/62/Japan_%28orthographic_projection%29.svg/220px-Japan_%28orthographic_projection%29.svg.png, Tokyo, None[1]</sup>, null, Japanese, Japanese, 377,972.28&#160;km, 0.8, 127,110,047, Yen, JPY, 
+<d, left, +81, JP, .jp
+Jordan, upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Jordan_%28orthographic_projection%29.svg/250px-Jordan_%28orthographic_projection%29.svg.png, Amman, Arabic, null, null, Jordanian, 89,341&#160;km, null, null, Dinar, JOD, null, right, +962, JO, .jo
+Kazakhstan, upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kazakhstan_%28orthographic_projection%29.svg/250px-Kazakhstan_%28orthographic_projection%29.svg.png, Astana, 
+<div class="plainlist">
+<ul>
+<li>Kazakh <small>(official state language)</small></li>
+<li>Russian <small>(using as official)[1]</sup></small></li>
+</ul>
+</div>
+, null, null, Kazakhstani, 2,724,900&#160;km, 1.7, 17,693,500, Tenge, KZT, null, right, null, KZ, .kz
+Kenya, null, Nairobi, 
+<div class="hlist">
+<ul>
+<li>English</li>
+<li>Kiswahili[1]</sup></li>
+</ul>
+</div>
+, null, Kiswahili[1]</sup>, Kenyan, 581,309&#160;km, 2.3, 45,010,056, Kenyan shilling, KES, dd/mm/yy (<, left, +254, KE, .ke
+Kiribati, null, Tarawa, 
+<div class="plainlist">
+<ul>
+<li>English</li>
+<li>Gilbertese</li>
+</ul>
+</div>
+, null, null, Demonym, 811&#160;km, null, null, Kiribati dollar, AUD, null, left, +686, KI, .ki
+Kuwait, upload.wikimedia.org/wikipedia/commons/thumb/4/41/KWT_orthographic.svg/250px-KWT_orthographic.svg.png, Kuwait City, Arabic, null, null, Kuwaiti, 17,820&#160;km, null, null, Kuwaiti dinar, KWD, dd/mm/yyyy (<, right, +965, KW, .kw
+Kyrgyzstan, upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kyrgyzstan_%28orthographic_projection%29.svg/250px-Kyrgyzstan_%28orthographic_projection%29.svg.png, Bishkek, 
+<div class="plainlist">
+<ul>
+<li>Kyrgyz <small>(national)</small></li>
+<li>Russian <small>(official)</small></li>
+</ul>
+</div>
+, null, null, Kyrgyz, 199,951&#160;km, 3.6, 6,000,000, Som, KGS, null, right, +996, KG, .kg
+Laos, upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/100px-Asia_%28orthographic_projection%29.svg.png, Vientiane, Lao, null, null, Demonym, 237,955&#160;km, 2, 6,803,699, Kip, LAK, dd/mm/yyyy, right, +856, LA, .la
+Latvia, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Riga, Latviana</sup>, null, null, Latvian, 64,589&#160;km, null, 1,957,200, Euro, EUR, null, right, +371, LV, .lv
+Lebanon, upload.wikimedia.org/wikipedia/commons/thumb/9/96/Lebanon_%28orthographic_projection%29.svg/250px-Lebanon_%28orthographic_projection%29.svg.png, Beirut, Arabic[nb 1]</sup>, null, null, Lebanese, 10,452&#160;km, 1.8, 6,184,701, Lebanese pound, LBP, null, right[7], +961, LB, .lb
+Lesotho, null, Maseru, 
+<div class="plainlist">
+<ul>
+<li>Sesotho</li>
+<li>English</li>
+</ul>
+</div>
+, null, null, singular, 30,355&#160;km, null, 2,067,000, Lesotho loti, LSL, null, left, +266, LS, .ls
+Liberia, null, Monrovia, English, null, null, Liberian, 111,369&#160;km, 13.514, 4,503,000, Liberian dollar, LRD, null, right, +231, LR, .lr
+Libya, upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Libya_%28Libya_centered%3B_orthographic_projection%29.svg/220px-Libya_%28Libya_centered%3B_orthographic_projection%29.svg.png, Tripoli, Arabic[b]</sup>, null, null, Libyan, 1,759,541&#160;km, null, 6,411,776, Libyan dinar, LYD, null, right, +218, LY, .ly
+Liechtenstein, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Vaduz, German, null, null, Liechtensteiner, 160&#160;km, null, 37,340, Swiss franc, CHF, null, right, +423, LI, .li
+Lithuania, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Vilnius, Lithuanian, null, null, Lithuanian, 65,300&#160;km, 1.35, null, Euro, EUR, yyyy-mm-dd (<, right, +370, LT, .lt
+Luxembourg, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Luxembourg City, French<br />
+German<br />
+Luxembourgish, null, null, Luxembourger, 2,586.4&#160;km, null, null, Euro, EUR, null, right, +352, LU, .lu
+Macedonia, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Skopje, Macedonian[1]</sup>[2]</sup>, null, null, Macedonian, 25,713&#160;km, 1.9, null, Macedonian denar, MKD, dd/mm/yyyy&#, right, +389, MK, .mk
+Madagascar, null, Antananarivo, 
+<div class="hlist">
+<ul>
+<li>French</li>
+<li>Malagasy</li>
+</ul>
+</div>
+, null, null, Malagasy, 587,041&#160;km, null, null, Malagasy ariary, MGA, null, right, +261, MG, .mg
+Malawi, null, Lilongwe, English[2]</sup>, null, null, Demonym, 118,484&#160;km, null, null, Kwacha, MWK, null, left, +265, MW, .mw
+Malaysia, upload.wikimedia.org/wikipedia/commons/thumb/2/23/Malaysia_%28orthographic_projection%29.svg/250px-Malaysia_%28orthographic_projection%29.svg.png, Kuala Lumpur, Bahasa Malaysia, null, null, Malaysian, 330,803&#160;km, 0.3, 31,277,000, Ringgit, MYR, dd-mm-yyyy, left, +60, MY, .my
+Maldives, upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Maldives_%28orthographic_projection%29.svg/250px-Maldives_%28orthographic_projection%29.svg.png, Malé, Maldivian (Dhivehi), null, null, Maldivian, 298<sup id="cite_ref-CIA_World_Factbook_7-0" class="reference"><a href="#cite_note-CIA_World_Factbook-7">[7]</a></sup>&#160;km, 0, 393,253, Maldivian rufiyaa, MVR, dd/mm/yy, left, +960, MV, .mv
+Mali, upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Mali_%28orthographic_projection%29.svg/250px-Mali_%28orthographic_projection%29.svg.png, Bamako, French, null, 
+<div class="hlist">
+<ul>
+<li>Bambara</li>
+<li>Bomu</li>
+<li>Tieyaxo Bozo</li>
+</ul>
+</div>
+<div class="hlist">
+<ul>
+<li>Toro So Dogon</li>
+</ul>
+</div>
+<div class="hlist">
+<ul>
+<li>Maasina Fulfulde</li>
+<li>Hassaniya Arabic</li>
+<li>Mamara Senoufo</li>
+<li>Kita Maninkakan</li>
+<li>Soninke</li>
+</ul>
+</div>
+<div class="hlist">
+<ul>
+<li>Koyraboro Senni</li>
+<li>Syenara Senoufo</li>
+<li>Tamasheq</li>
+<li>Xaasongaxango</li>
+</ul>
+</div>
+, Demonym, 1,240,192&#160;km, 1.6, 14,517,176, West African CFA franc, XOF, null, right[9], +223, ML, .ml
+Malta, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Valletta, Maltese, English, Maltese Sign Language[1]</sup>, null, <b>National language</b>
+Maltese, Maltese, 316&#160;km, 0.001, null, €, EUR, dd/mm/yyyy (<, left, +356, MT, .mt
+Marshall Islands, null, Majuro, 
+<div class="plainlist">
+<ul>
+<li>Marshallese</li>
+<li>English</li>
+</ul>
+</div>
+, null, null, Marshallese, 181.43&#160;km, null, null, United States dollar, USD, MM/DD/YYYY, right, +692, MH, .mh
+Mauritania, upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mauritania_%28orthographic_projection%29.svg/250px-Mauritania_%28orthographic_projection%29.svg.png, Nouakchott, Arabica</sup>, null, null, Mauritanian, 1,030,000&#160;km, 0.03, null, Ouguiya, MRO, null, right, +222, MR, .mr
+Mauritius, upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mauritius_%28orthographic_projection_with_inset%29.svg/250px-Mauritius_%28orthographic_projection_with_inset%29.svg.png, <img alt="Coat of arms of Port Louis, Mauritius.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Coat_of_arms_of_Port_Louis%2C_Mauritius.svg/30px-Coat_of_arms_of_Port_Louis%2C_Mauritius.svg.png" width="30" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Coat_of_arms_of_Port_Louis%2C_Mauritius.svg/45px-Coat_of_arms_of_Port_Louis%2C_Mauritius.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Coat_of_arms_of_Port_Louis%2C_Mauritius.svg/60px-Coat_of_arms_of_Port_Louis%2C_Mauritius.svg.png 2x" data-file-width="751" data-file-height="528" />, None<b>a</sup></b>, null, null, Mauritian, 2,040&#160;km, 0.07, 1,261,208, Mauritian rupee, MUR, dd/mm/yyyy (<, left, +230, MU, .mu
+Mexico, upload.wikimedia.org/wikipedia/commons/thumb/0/06/MEX_orthographic.svg/220px-MEX_orthographic.svg.png, Mexico City, <span class="nowrap">None at federal level</span>, null, Spanish[b]</sup>, Mexican, 1,972,550&#160;km, 2.5, 119,530,753, Peso, MXN, null, right, +52, MX, .mx
+Micronesia, null, Palikir, English, null, null, Micronesian, 702&#160;km, null, 106,104, United States dollar, USD, null, right, +691, FM, .fm
+Moldova, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Chișinău, Romanian a</sup>[1]</sup>[2]</sup>[3]</sup>, null, null, Moldovan, 33,846&#160;km, 1.4, null, Leu, MDL, null, right, +373, MD, .md
+Monaco, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, city-state, French[3]</sup>, null, null, [c], 2.02&#160;km, null, 37,800, Euro, EUR, null, right[8], +377, MC, .mc
+Mongolia, upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Mongolia_%28orthographic_projection%29.svg/250px-Mongolia_%28orthographic_projection%29.svg.png, Ulaanbaatar, Mongolian, null, null, Mongol, 1,566,000&#160;km, null, 3,081,677, Tögrög, MNT, yyyy.mm.dd (<, right, +976, MN, .mn
+Montenegro, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Podgorica, Montenegrin[1]</sup>, null, null, Montenegrin, 13,812&#160;km, 1.5, null, Euro, EUR, null, right, +382, ME, .me
+Morocco, upload.wikimedia.org/wikipedia/commons/thumb/7/78/Morocco_%28orthographic_projection%2C_WS_claimed%29.svg/250px-Morocco_%28orthographic_projection%2C_WS_claimed%29.svg.png, Rabat, 
+<div class="hlist">
+<ul>
+<li>Arabic</li>
+<li>Berber</li>
+</ul>
+</div>
+, null, null, Moroccan, 710,850&#160;km, null, null, Moroccan dirham, MAD, null, right, +212, MA, .ma
+Mozambique, null, Maputo, Portuguese, null, null, Demonym, 801,590&#160;km, 2.2, 24,692,144, Mozambican metical, MZN, null, left, +258, MZ, .mz
+Myanmar, upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/100px-Asia_%28orthographic_projection%29.svg.png, Naypyidaw, Burmese, null, null, Demonym, 676,578&#160;km, 3.06, 51,486,253, Kyat, MMK, null, right, +95, MM, .mm
+Namibia, null, Windhoek, English, null, null, Demonym, 825,615&#160;km, null, null, Namibian dollar, NAD, null, left, +264, NA, .na
+Nauru, null, Yaren, 
+<div class="plainlist">
+<ul>
+<li>Nauruan <small>(native)</small></li>
+<li><span class="nowrap">English <small>(widely spoken)</small></span></li>
+</ul>
+</div>
+, null, null, Nauruan, 21&#160;km, 0.57, 10,084, Australian dollar, AUD, null, Left, +674, NR, .nr
+Nepal, upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nepal_%28orthographic_projection%29.svg/250px-Nepal_%28orthographic_projection%29.svg.png, Kathmandu, Nepali language, null, Awadhi<br />
+Bhojpuri<br />
+Gurung<br />
+Kiranti<br />
+Limbu<br />
+Magar<br />
+Maithili<br />
+Nepali (official)<br />
+Nepal Bhasa<br />
+Rai<br />
+Sherpa<br />
+Tamang<br />
+Tharu, Nepali, 147,181&#160;km, 2.8, null, Nepalese rupee, NPR, null, left, +977, NP, .np
+Netherlands, upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kingdom_of_the_Netherlands_%28orthographic_projection%29.svg/220px-Kingdom_of_the_Netherlands_%28orthographic_projection%29.svg.png, Amsterdam, <span class="nowrap">Dutch <small>(<i>de facto</i>)</small></span>, null, null, Dutch, 42,508&#160;km, 18.41, null, Euro, EUR, dd-mm-yyyy, right, +31, NL, .nl
+New Zealand, upload.wikimedia.org/wikipedia/commons/thumb/2/29/NZL_orthographic_NaturalEarth.svg/250px-NZL_orthographic_NaturalEarth.svg.png, Wellington, 
+<div class="plainlist">
+<ul>
+<li>96.1% English[n 2]</sup>[n 3]</sup></li>
+<li>3.7% Māori</li>
+<li><span class="nowrap">0.5% NZ Sign Language</span></li>
+</ul>
+</div>
+, null, null, New Zealander, 268,021&#160;km, null, 4,733,910, New Zealand dollar, NZD, dd/mm/yyyy, left, +64, NZ, .nz
+Nicaragua, upload.wikimedia.org/wikipedia/commons/thumb/3/38/Nicaragua_%28orthographic_projection%29.svg/250px-Nicaragua_%28orthographic_projection%29.svg.png, <img alt="Escudo de Managua.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Escudo_de_Managua.svg/20px-Escudo_de_Managua.svg.png" width="20" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Escudo_de_Managua.svg/30px-Escudo_de_Managua.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Escudo_de_Managua.svg/40px-Escudo_de_Managua.svg.png 2x" data-file-width="715" data-file-height="915" />, Spanish, null, null, Nicaraguans, 130,375&#160;km, 7.14, null, Córdoba, NIO, null, right, +505, NI, .ni
+Niger, upload.wikimedia.org/wikipedia/commons/thumb/8/88/Niger_%28orthographic_projection%29.svg/250px-Niger_%28orthographic_projection%29.svg.png, Niamey, French, null, 
+<div class="hlist">
+<ul>
+<li>Arabic</li>
+<li>Buduma</li>
+</ul>
+</div>
+<div class="hlist">
+<ul>
+<li>Fulfulde</li>
+</ul>
+</div>
+<div class="hlist">
+<ul>
+<li>Gourmanchéma</li>
+</ul>
+</div>
+<div class="hlist">
+<ul>
+<li>Hausa</li>
+<li>Kanuri</li>
+</ul>
+</div>
+<div class="hlist">
+<ul>
+<li>Zarma &amp; Songhai</li>
+<li>Tamasheq</li>
+<li>Tassawaq</li>
+<li>Tebu</li>
+</ul>
+</div>
+, Nigerien, 1,267,000&#160;km, 0.02, null, West African CFA franc, XOF, null, right[7], +227, NE, .ne
+Nigeria, upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Nigeria_%28orthographic_projection%29.svg/250px-Nigeria_%28orthographic_projection%29.svg.png, Abuja, English, null, null, Nigerian, 923,768&#160;km, 1.4, 188,462,640, Naira, NGN, null, right, +234, NG, .ng
+Norway, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Oslo, <span class="nowrap">Norwegian<br />
+<small>(Bokmål&#160;/ Nynorsk)</small></span>
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background:transparent;text-align:left;font-weight:normal;">Sami</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: left; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;">
+<li style="line-height: inherit; margin: 0">Northern Sami</li>
+<li style="line-height: inherit; margin: 0">Lule Sami</li>
+<li style="line-height: inherit; margin: 0">Southern Sami</li>
+<li style="line-height: inherit; margin: 0"><small>(Official in 9 municipalities)</small></li>
+</ul>
+</div>
+, null, null, Norwegian, 385,178<sup id="cite_ref-land_area_8-0" class="reference"><a href="#cite_note-land_area-8">[8]</a></sup>&#160;km, null, null, Norwegian krone, NOK, dd.mm.yyyy, right, +47, NO, .no
+Oman, upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Oman_%28better%29_%28orthographic_projection%29.svg/250px-Oman_%28better%29_%28orthographic_projection%29.svg.png, Muscat, Arabic, null, null, Omani, 309,500&#160;km, null, null, Rial, OMR, null, right, +968, OM, .om
+Pakistan, upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pakistan_%28orthographic_projection%29.svg/220px-Pakistan_%28orthographic_projection%29.svg.png, Islamabad, English, Urdu[4]</sup>[5]</sup>[6]</sup>[7]</sup>[8]</sup>, null, null, Pakistani, 881,913&#160;km, 3.1, 201,995,540, Pakistani rupee, PKR, null, left[18], +92, PK, .pk
+Palau, null, Ngerulmud, English, null, null, Palauan, 465.55&#160;km, null, 17,948, United States dollar, USD, null, right, +680, null, .pw
+Palestine, upload.wikimedia.org/wikipedia/commons/thumb/a/ad/State_of_Palestine_%28orthographic_projection%29.svg/220px-State_of_Palestine_%28orthographic_projection%29.svg.png, ^, Arabic, null, null, Palestinian, null, null, 4,550,368, Egyptian pound, EGP, dd/mm/yyyy, right, +970, PS, .ps
+Panama, upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Panama_%28orthographic_projection%29.svg/250px-Panama_%28orthographic_projection%29.svg.png, Panama City, Spanish, null, null, Panamanian, null, 2.9, null, Balboa, PAB, null, right, +507, PA, .pa
+Papua New Guinea, upload.wikimedia.org/wikipedia/commons/thumb/7/79/Papua_New_Guinea_%28orthographic_projection%29.svg/250px-Papua_New_Guinea_%28orthographic_projection%29.svg.png, Port Moresby, 
+<div class="hlist">
+<ul>
+<li>Hiri Motu</li>
+<li>Tok Pisin</li>
+<li>Papua New Guinean Sign Language</li>
+<li>English</li>
+</ul>
+</div>
+, null, null, Papua New Guinean, 462,840&#160;km, 2, 7,059,653, Papua New Guinean kina, PGK, null, left, +675, PG, .pg
+Paraguay, upload.wikimedia.org/wikipedia/commons/thumb/8/80/Paraguay_%28orthographic_projection%29.svg/250px-Paraguay_%28orthographic_projection%29.svg.png, Asunción, 
+<div class="plainlist">
+<ul>
+<li>Spanish</li>
+<li>Guarani</li>
+</ul>
+</div>
+, null, null, Paraguayan, 406,752&#160;km, 2.3, 6,783,272, Guaraní, PYG, null, right, +595, PY, .py
+Peru, upload.wikimedia.org/wikipedia/commons/thumb/8/84/Peru_%28orthographic_projection%29.svg/250px-Peru_%28orthographic_projection%29.svg.png, Lima, 
+<div class="plainlist">
+<ul>
+<li>Spanish</li>
+<li>Quechua</li>
+<li>Aymara</li>
+</ul>
+</div>
+, null, null, Peruvian, 1,285,216&#160;km, 0.41, null, Sol, PEN, dd.mm.yyyy (<, right, +51, PE, .pe
+Philippines, upload.wikimedia.org/wikipedia/commons/thumb/6/6d/PHL_orthographic.svg/250px-PHL_orthographic.svg.png, Manila, 
+<div class="hlist">
+<ul>
+<li>Filipino</li>
+<li>English</li>
+</ul>
+</div>
+, null, null, Philippine (<i>English</i>), 300,000&#160;km, null, 100,981,437, Peso, PHP, 
+<d, right[9], +63, PH, .ph
+Poland, null, Warsaw, Polish[1]</sup>, null, null, Polish, 312,679&#160;km, 3.07, null, Złoty, PLN, null, right, +48, PL, .pl
+Portugal, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Lisbon, Portuguese, null, null, Portuguese, 92,212<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>&#160;km, 0.5, 10,341,330, Euro, EUR, dd/mm/yyyy, right, +351, PT, .pt
+Qatar, upload.wikimedia.org/wikipedia/commons/thumb/d/d4/QAT_orthographic.svg/250px-QAT_orthographic.svg.png, Doha, Arabic, null, null, Qatari, 11,586&#160;km, null, 2,383,705, Riyal, QAR, null, right[6], null, QA, .qa
+Romania, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Bucharest, Romanian[1]</sup>, null, null, Romanian, 238,391&#160;km, 3, 19,511,000, Romanian leu, RON, dd.mm.yyyy&#, right, +40, RO, .ro
+Russia, upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Russian_Federation_%28orthographic_projection%29_-_Crimea_disputed.svg/220px-Russian_Federation_%28orthographic_projection%29_-_Crimea_disputed.svg.png, Moscow, Russian, null, null, Russian, 17,075,200 <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>&#160;km, null, null, Russian ruble, RUB, dd.mm.yyyy, right, +7, RU, .ru
+Rwanda, null, Kigali, 
+<div class="plainlist">
+<ul>
+<li>Kinyarwanda</li>
+<li>English</li>
+<li>French</li>
+</ul>
+</div>
+, null, null, Demonym, 26,338&#160;km, 5.3, 11,262,564, Rwandan franc, RWF, null, right, +250, RW, .rw
+Saint Kitts and Nevis, upload.wikimedia.org/wikipedia/commons/thumb/5/5d/KNA_orthographic.svg/250px-KNA_orthographic.svg.png, Basseterre, English, null, null, Demonym, 261&#160;km, null, null, East Caribbean dollar, XCD, null, left, 869, KN, .kn
+Saint Lucia, null, Castries, English, null, null, Saint Lucian, 617&#160;km, 1.6, null, East Caribbean dollar, XCD, null, left, 758, LC, .lc
+Saint Vincent and the Grenadines, upload.wikimedia.org/wikipedia/commons/thumb/7/70/VCT_orthographic.svg/250px-VCT_orthographic.svg.png, Kingstown, English, null, null, Vincentian, 344&#160;km, null, 103,000, East Caribbean dollar, XCD, null, left, 784, VC, .vc
+Samoa, null, Apia, 
+<div class="plainlist">
+<ul>
+<li>Samoan</li>
+<li>English</li>
+</ul>
+</div>
+, null, null, Samoan, 2,842&#160;km, 0.3, 194,899, Tala, WST, null, leftc, +685, WS, .ws
+San Marino, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, City of San Marino, Italian, null, null, Sammarinese, 61.2&#160;km, 0, 33,020, Euro, EUR, null, right, +378, SM, .sm
+São Tomé and Príncipe, null, São Tomé, Portuguese, null, null, [1], 964&#160;km, null, null, Dobra, STD, null, right, +239, ST, .st
+Saudi Arabia, upload.wikimedia.org/wikipedia/commons/thumb/4/47/Saudi_Arabia_%28orthographic_projection%29.svg/250px-Saudi_Arabia_%28orthographic_projection%29.svg.png, Riyadh, Arabic[5]</sup>, null, null, Saudi Arabian, 2,149,690<sup id="cite_ref-CIA_World_Factbook_6-1" class="reference"><a href="#cite_note-CIA_World_Factbook-6">[5]</a></sup>&#160;km, 0.7, 30,770,375, Saudi riyal, SAR, dd/mm/yyyy (<, right, +966, SA, .sa
+Senegal, null, Dakar, French, null, 
+<div class="hlist">
+<ul>
+<li>Balanta-Ganja</li>
+<li>Hassaniya Arabic</li>
+<li>Jola-Fonyi</li>
+<li>Mandinka</li>
+<li>Mandjak</li>
+<li>Mankanya</li>
+<li>Noon</li>
+<li>Pulaar</li>
+</ul>
+</div>
+<div class="hlist">
+<ul>
+<li>Serer</li>
+<li>Soninke</li>
+<li>Wolof</li>
+</ul>
+</div>
+, Senegalese, 196,712&#160;km, 2.1, null, CFA franc, XOF, null, right, +221, SN, .sn
+Serbia, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Belgrade, Serbian, null, null, Serbian, 88,361&#160;km, null, null, Serbian dinar, RSD, null, right, +381, RS, .rs
+Seychelles, null, Victoria, 
+<div class="plainlist">
+<ul>
+<li>English</li>
+<li>French</li>
+<li>Seychellois Creole</li>
+</ul>
+</div>
+, null, null, Demonym, 459&#160;km, null, null, Seychellois rupee, SCR, null, left, +248, SC, .sc
+Sierra Leone, null, Freetown, 
+<div class="hlist">
+<ul>
+<li>English</li>
+</ul>
+</div>
+, null, null, Demonym, 71,740&#160;km, 1.1, null, Leone, SLL, null, rightb, +232, SL, .sl
+Singapore, upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/100px-Asia_%28orthographic_projection%29.svg.png, city-state, 
+<div class="hlist">
+<ul>
+<li>English</li>
+<li>Malay</li>
+<li>Mandarin</li>
+<li>Tamil</li>
+</ul>
+</div>
+, null, null, Singaporean, 719.1&#160;km, null, null, Singapore dollar, SGD, dd/mm/yyyy, left, +65, SG, .sg
+Slovakia, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Bratislava, Slovak, null, null, Slovak, 49,035&#160;km, null, 5,426,252, €, EUR<sup>b</sup>, null, right, +421, SK, .sk
+Slovenia, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Ljubljana, Slovene, null, null, Slovene, 20,273&#160;km, null, 2,063,077, Euro, EUR, dd. mm. yyyy, right, +386, SI, .si
+Solomon Islands, null, Honiara, English, null, null, Demonym, 28,400&#160;km, null, 523,000, Solomon Islands dollar, SBD, null, left, +677, SB, .sb
+Somalia, upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Somalia_%28orthographic_projection%29.svg/250px-Somalia_%28orthographic_projection%29.svg.png, Mogadishu, 
+<div class="hlist">
+<ul>
+<li>Somali</li>
+<li>Arabic[2]</sup></li>
+</ul>
+</div>
+, null, null, [3], 637,657&#160;km, null, 12,316,895, Somali shilling, SOS, null, right, +252, SO, .so
+South Africa, null, Pretoria, [Note 1]</sup>
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background:transparent;text-align:left;font-weight:normal;">11 languages</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; border-top:1px solid #aaa; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;">
+<li style="line-height: inherit; margin: 0">Afrikaans</li>
+<li style="line-height: inherit; margin: 0">Northern Sotho</li>
+<li style="line-height: inherit; margin: 0">English</li>
+<li style="line-height: inherit; margin: 0">Southern Ndebele</li>
+<li style="line-height: inherit; margin: 0">Southern Sotho</li>
+<li style="line-height: inherit; margin: 0">Swazi</li>
+<li style="line-height: inherit; margin: 0">Tsonga</li>
+<li style="line-height: inherit; margin: 0">Tswana</li>
+<li style="line-height: inherit; margin: 0">Venda</li>
+<li style="line-height: inherit; margin: 0">Xhosa</li>
+<li style="line-height: inherit; margin: 0">Zulu</li>
+</ul>
+</div>
+, null, null, South African, 1,221,037&#160;km, null, 54,956,900, South African rand, ZAR, null, left, +27, ZA, .za
+South Sudan, upload.wikimedia.org/wikipedia/commons/thumb/6/65/South_Sudan_%28orthographic_projection%29.svg/250px-South_Sudan_%28orthographic_projection%29.svg.png, Juba, English[1]</sup>[2]</sup>, null, null, South Sudanese, 619,745&#160;km, null, null, South Sudanese pound, SSP, null, right, +211, SS, .ss
+Spain, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Madrid, Spanish[c]</sup>, null, null, Spanish, 505,990<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[4]</a></sup>&#160;km, 1.04, 46,423,064, Euro, EUR, dd/mm/yyyy <, right, +34, ES, .es
+Sri Lanka, upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sri_Lanka_%28orthographic_projection%29.svg/250px-Sri_Lanka_%28orthographic_projection%29.svg.png, Sri Jayawardenepura Kotte, 
+<div class="hlist">
+<ul>
+<li>Sinhalese</li>
+<li>Tamil[1]</sup></li>
+</ul>
+</div>
+, null, null, Sri Lankan, 65,610&#160;km, 4.4, 20,277,597, Sri Lankan rupee, LKR, 
+<d, left, +94, LK, .lk
+Sudan, upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sudan_%28orthographic_projection%29_highlighted.svg/250px-Sudan_%28orthographic_projection%29_highlighted.svg.png, Khartoum, 
+<div class="plainlist">
+<ul>
+<li>Arabic, English[3]</sup></li>
+</ul>
+</div>
+, null, null, Sudanese, 1,886,068&#160;km, null, 40,235,000, Sudanese pound, SDG, dd/mm/yyyy, right, +249, SD, .sd
+Suriname, upload.wikimedia.org/wikipedia/commons/thumb/8/87/Suriname_%28orthographic_projection%29.svg/250px-Suriname_%28orthographic_projection%29.svg.png, Paramaribo, Dutch, null, null, Surinamese, 163,821&#160;km, 1.1, 573,311, Surinamese dollar, SRD, null, left, +597, SR, .sr
+Swaziland, null, Lobamba, 
+<div class="hlist">
+<ul>
+<li>Swazi<br />
+English</li>
+</ul>
+</div>
+, null, null, Swazi, 17,364&#160;km, 0.9, 1,119,000, South African rand, SZL, null, left, +268, SZ, .sz
+Sweden, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Stockholm, Swedish[c]</sup>, null, null, Swedish, 450,295&#160;km, 8.7, null, Swedish krona, SEK, yyyy-mm-dd, right[e], 46, SE, .se
+Switzerland, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, de jure, German<br />
+French<br />
+Italian<br />
+Romansh, null, null, Swiss, 41,285&#160;km, 4.2, 8,364,100, Swiss franc, CHF, dd.mm.yyyy (<, right, +41, CH, .ch
+Syria, upload.wikimedia.org/wikipedia/commons/thumb/1/11/Syria_%28orthographic_projection%29.svg/250px-Syria_%28orthographic_projection%29.svg.png, Damascus, Arabic, null, null, null, 185,180<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>&#160;km, 1.1, 17,064,854, Syrian pound, SYP, null, right, +963, SY, .sy
+Tajikistan, upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Tajikistan_%28orthographic_projection%29.svg/250px-Tajikistan_%28orthographic_projection%29.svg.png, Dushanbe, Tajik, null, null, Tajikistani, 143,100&#160;km, 1.8, 8,610,000, Somoni, TJS, null, right, +992, TJ, .tj
+Tanzania, null, Dodoma, 
+<div class="plainlist">
+<ul>
+<li>Swahili</li>
+<li>English[1]</sup></li>
+</ul>
+</div>
+, null, null, Tanzanian, 947,303&#160;km, null, null, Tanzanian shilling, TZS, null, left, +255, TZ, .tz
+Thailand, null, Bangkok, Thai[1]</sup>, null, null, Thai, 513,120&#160;km, null, 67,959,000, Baht, THB, null, left, +66, TH, .th
+Togo, null, Lomé, French, null, null, Togolese, 56,785&#160;km, 4.2, 7,552,318, CFA franc, XOF, null, right, +228, TG, .tg
+Tonga, null, Nuku<span class="unicode">ʻ</span>alofa, 
+<div class="hlist">
+<ul>
+<li>Tongan</li>
+<li>English</li>
+</ul>
+</div>
+, null, null, Tongan, 748&#160;km, 4.0, null, Pa<span class="unicode">ʻ</span>anga, TOP, null, left, +676, TO, .to
+Trinidad and Tobago, upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Trinidad_and_Tobago_%28orthographic_projection%29.svg/250px-Trinidad_and_Tobago_%28orthographic_projection%29.svg.png, Port of Spain, English, null, None at federal level, Trinidadian, 5,131&#160;km, null, null, Trinidad and Tobago dollar, TTD, dd/mm/yyyy, left, +1, TT, .tt
+Tunisia, null, Tunis, Arabic[2]</sup>, null, null, Tunisian, 163,610&#160;km, 5.0, 10,982,754, Tunisian dinar, TND, null, right, +216, TN, .tn
+Turkey, upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Turkey_%28orthographic_projection%29.svg/250px-Turkey_%28orthographic_projection%29.svg.png, Ankara, Turkish, null, null, Turkish, 783,356&#160;km, 1.3, 78,741,053, Turkish lira, TRY, dd/mm/yyyy (<, right, +90, TR, .tr
+Turkmenistan, upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/100px-Asia_%28orthographic_projection%29.svg.png, Ashgabat, Turkmen[1]</sup>, null, null, Turkmen, 491,210&#160;km, 4.9, 5,171,943, Turkmen new manat, TMT, null, right, +993, TM, .tm
+Tuvalu, null, Funafuti, 
+<div class="hlist">
+<ul>
+<li>Tuvaluan</li>
+<li>English</li>
+</ul>
+</div>
+, null, null, Tuvaluan, 26&#160;km, null, 10,640, Tuvaluan dollar, AUD, null, left, +688, TV, .tv
+Uganda, upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Uganda_%28orthographic_projection%29.svg/250px-Uganda_%28orthographic_projection%29.svg.png, Kampala, Swahili, English, null, null, [2], 241,038&#160;km, 15.39, 37,873,253, Ugandan shilling, UGX, null, left, +256, UG, .ug
+Ukraine, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Kiev, Ukrainian, null, null, Ukrainian, 603,500&#160;km, 7, 42,539,010, Ukrainian hryvnia, UAH, null, right, +380, UA, .ua
+United Arab Emirates, upload.wikimedia.org/wikipedia/commons/thumb/c/cd/United_Arab_Emirates_%28orthographic_projection%29.svg/250px-United_Arab_Emirates_%28orthographic_projection%29.svg.png, Abu Dhabi, Arabic, null, null, Emirati, 83,600, null, 5,779,760, UAE dirham, AED, dd/mm/yyyy, right[6][7], +971, AE, .ae
+United Kingdom, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, London, English, null, null, British, 242,495&#160;km, 1.34, 65,110,000, Pound&#160;sterling, GBP, dd/mm/yyyy&#, left, +44, GB, .uk
+United States, upload.wikimedia.org/wikipedia/commons/thumb/d/dc/USA_orthographic.svg/220px-USA_orthographic.svg.png, Washington, D.C., <span class="nowrap">None at federal level[a]</sup></span>, null, English[b]</sup>, American, 9,833,517&#160;km, 6.97, 324,720,797, United States dollar, USD, MM/DD/YYYY, right[f], +1, US, .us
+Uruguay, upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Uruguay_%28orthographic_projection%29.svg/220px-Uruguay_%28orthographic_projection%29.svg.png, Montevideo, Spanish, null, null, Uruguayan, 176,215&#160;km, 1.5, 3,427,000, Uruguayan peso, UYU, null, right, +598, UY, .uy
+Uzbekistan, null, Tashkent, Uzbek, null, null, Uzbek, 448,978&#160;km, 4.9, 31,576,400, Uzbekistan som, UZS, null, right, +998, UZ, .uz
+Vanuatu, null, Port Vila, 
+<div class="plainlist">
+<ul>
+<li>Bislama</li>
+<li>French</li>
+<li>English</li>
+</ul>
+</div>
+, null, null, Demonym, 12,189&#160;km, null, null, Vanuatu vatu, VUV, null, right, +678, VU, .vu
+Vatican City, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, city-state, Italian[a]</sup>, null, null, null, 0.44&#160;km, null, 1,000, Euro, EUR, null, right[b], +379, VA, .va
+Venezuela, upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Venezuela_%28orthographic_projection%29.svg/250px-Venezuela_%28orthographic_projection%29.svg.png, Caracas, Spanish, null, null, Venezuelan, 916,445&#160;km, null, null, Bolívar fuerte, VEF, null, right, +58, VE, .ve
+Vietnam, upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/100px-Asia_%28orthographic_projection%29.svg.png, Hanoi, Vietnamese, null, null, Vietnamese, 332,698&#160;km, null, 91,700,000, đồng, VND, null, right, +84, VN, .vn
+Yemen, upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Middle_East_%28orthographic_projection%29.svg/70px-Middle_East_%28orthographic_projection%29.svg.png, Sana'a, Arabic, null, null, Yemeni, 528,076&#160;km, null, 25,408,000, Yemeni rial, YER, null, right[5], +967, YE, .ye
+Zambia, upload.wikimedia.org/wikipedia/commons/thumb/2/26/Zambia_%28orthographic_projection%29.svg/250px-Zambia_%28orthographic_projection%29.svg.png, Lusaka, English, null, null, Zambian, 752,618&#160;km, 1, 16,212,000, Zambian kwacha, ZMW, null, left, +260, ZM, .zm
+Zimbabwe, null, Harare, 
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background:transparent;text-align:left;font-weight:normal;">16 languages[3]</sup></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; border-top:1px solid #aaa; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;">
+<li style="line-height: inherit; margin: 0">Chewa</li>
+<li style="line-height: inherit; margin: 0">Chibarwe</li>
+<li style="line-height: inherit; margin: 0">English</li>
+<li style="line-height: inherit; margin: 0">Kalanga</li>
+<li style="line-height: inherit; margin: 0">"Koisan"<br />
+(presumably Tsoa)</li>
+<li style="line-height: inherit; margin: 0">Nambya</li>
+<li style="line-height: inherit; margin: 0">Ndau</li>
+<li style="line-height: inherit; margin: 0">Ndebele</li>
+<li style="line-height: inherit; margin: 0">Shangani</li>
+<li style="line-height: inherit; margin: 0">Shona</li>
+<li style="line-height: inherit; margin: 0">"sign language"</li>
+<li style="line-height: inherit; margin: 0">Sotho</li>
+<li style="line-height: inherit; margin: 0">Tonga</li>
+<li style="line-height: inherit; margin: 0">Tswana</li>
+<li style="line-height: inherit; margin: 0">Venda</li>
+<li style="line-height: inherit; margin: 0">Xhosa</li>
+</ul>
+</div>
+, null, null, Zimbabwean, 390,757&#160;km, 1, 12,973,808, United States dollar, null, null, left, +263, ZW, .zw
+Abkhazia, upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/100px-Asia_%28orthographic_projection%29.svg.png, Sukhumi, 
+<div class="hlist">
+<ul>
+<li>Abkhaz</li>
+<li>Russiana</sup></li>
+</ul>
+</div>
+, null, null, Demonym, null, null, null, Abkhazian apsar, RUB, null, right, +7, null, null
+Cook Islands, null, Avarua, 
+<div class="plainlist">
+<ul>
+<li>English</li>
+<li>Cook Islands Māori</li>
+</ul>
+</div>
+, null, null, Demonym, 240&#160;km, null, null, NZD, NZD, null, left, null, CK, .ck
+Kosovo, upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/100px-Europe_%28orthographic_projection%29.svg.png, Pristina, 
+<div class="hlist">
+<ul>
+<li>Albanian</li>
+<li>Serbian</li>
+</ul>
+</div>
+, null, null, Demonym, null, null, null, Euro, EUR, null, right, +383, XK, null
+Nagorno-Karabakh, upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Nagorno-Karabakh_Republic_%28orthographic_projection%29.svg/250px-Nagorno-Karabakh_Republic_%28orthographic_projection%29.svg.png, Stepanakert, Armeniana</sup>, null, null, null, null, null, null, Armenian dram, AMD, null, null, +374, null, Internet TLD
+Niue, null, Alofi, 
+<div class="plainlist">
+<ul>
+<li>Niuean</li>
+<li>English</li>
+</ul>
+</div>
+, null, null, Demonym, null, 0, null, New Zealand dollar, NZD, null, left, +683, NU, .nu
+Northern Cyprus, upload.wikimedia.org/wikipedia/commons/thumb/7/77/Northern_Cyprus_%28orthographic_projection%29.svg/220px-Northern_Cyprus_%28orthographic_projection%29.svg.png, North Nicosia, Turkish, null, null, Turkish Cypriot, 3,355&#160;km, 2.7, null, Turkish lira, null, null, left, 392, null, null
+Sahrawi Arab Democratic Republic, upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sahrawi_Arab_Democratic_Republic_%28orthographic_projection%29.svg/250px-Sahrawi_Arab_Democratic_Republic_%28orthographic_projection%29.svg.png, Laayoune, 
+<div class="hlist">
+<ul>
+<li>Arabic and Spanish</li>
+</ul>
+</div>
+[1]</sup>, null, null, Sahrawi, 266,000, null, null, Sahrawi peseta, null, null, null, null, null, Internet TLD
+Somaliland, upload.wikimedia.org/wikipedia/commons/thumb/2/24/Somaliland_%28orthographic_projection%29.svg/250px-Somaliland_%28orthographic_projection%29.svg.png, Hargeisa, 
+<div class="plainlist">
+<ul>
+<li>Somali</li>
+<li>Arabic</li>
+<li>English[3]</sup></li>
+</ul>
+</div>
+, null, null, Somali, null, null, null, Somaliland shilling, SLSH, d/m/yy (<, right, +252, null, null
+South Ossetia, upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/100px-Asia_%28orthographic_projection%29.svg.png, Tskhinvali, 
+<div class="hlist">
+<ul>
+<li>Ossetiana</sup></li>
+<li>Russiana</sup></li>
+</ul>
+</div>
+, null, null, null, null, null, null, Russian ruble, RUB, null, right, null, null, null
+Taiwan, upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/100px-Asia_%28orthographic_projection%29.svg.png, Taipei, Mandarin[3]</sup>, null, null, Taiwanese, 36,193<sup id="cite_ref-taiwan-popstat_8-0" class="reference"><a href="#cite_note-taiwan-popstat-8">[5]</a></sup>&#160;km, null, 23,508,362, New Taiwan dollar, TWD, 
+<d, right, +886, TW, .tw
+Transnistria, null, Tiraspol, 
+<div class="plainlist">
+<ul>
+<li>Russiana</sup></li>
+<li><span class="nowrap">Moldovanb</sup>[1]</sup></span></li>
+<li>Ukrainian</li>
+</ul>
+</div>
+, null, null, Demonym, null, 2.35, null, Transnistrian ruble, PRB, null, null, +373, null, Internet TLD
